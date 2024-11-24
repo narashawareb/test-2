@@ -1,0 +1,7 @@
+step 1. in VSCode do: git --global user.name and user.email
+step 2. make a new repo online in github 
+copy the link of your new repo
+in VSCode open a new git bash terminal and: git clone <repo link>
+check where the new file was created using: pwd
+then go to that location using: cd ~/OneDrive/path/to/file
+and you're done!!!
